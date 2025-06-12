@@ -1,0 +1,1 @@
+## This is directory is dedicated to projects that I made to learn more about the bootstrap framework.
